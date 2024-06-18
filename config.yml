@@ -1,0 +1,13 @@
+# web listen address
+webListenAddress: "0.0.0.0:9100"
+
+# mig strategy
+migStrategy: "none"
+
+# enable benchmark
+benchmark: false
+
+# log configuration
+log:
+    level: "debug"
+    fileDir: "./logs"

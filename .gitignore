@@ -1,0 +1,7 @@
+k8s-gpu-device-plugin
+logs/
+.DS_Store
+debug
+__debug_bin
+.vscode
+.idea/
